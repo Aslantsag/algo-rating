@@ -6,6 +6,7 @@ LOGIN = 'YOUR LOGIN'
 PASSWORD = 'YOUR PASSWORD'
 USER_AGENT = 'RANDOM USER AGENT'
 
+
 class Export:
     url_main = 'https://backoffice.algoritmika.org'
     url_schedule = 'https://backoffice.algoritmika.org/group/default/schedule'
